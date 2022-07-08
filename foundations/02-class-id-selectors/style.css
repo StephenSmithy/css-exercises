@@ -1,0 +1,29 @@
+/* styles */
+
+.pClass1 {
+    color: black;
+    background-color: pink;
+    font-size: 18pt;
+}
+
+.pClass2{
+    color: black;
+    background-color: pink;
+    font-size: 24pt;
+
+}
+
+.divClass1 {
+    color: rgb(0,0,255);
+    background-color: white;
+    font-size: 32pt;
+
+}
+
+.divClass2 {
+    color: black;
+    background-color: green;
+    font-weight: bold;
+    font-size: 24pt;
+
+}
